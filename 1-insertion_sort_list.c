@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
-* swapem - Swaps tha nodes
+* swap - Swaps the nodes
 * @l: left or lower node
 * @r: right or later node
 * @h: Head of dlist
